@@ -1,0 +1,17 @@
+{
+  "name": "gitgui-main",
+  "version": "1.0.0",
+  "description": "GUI for git",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "John",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^9.1.0"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.11.0"
+  }
+}
